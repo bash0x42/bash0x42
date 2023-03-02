@@ -13,7 +13,6 @@
 ![CSS](https://github.com/bash0x42/icons/blob/main/css-3.png)
 ![JAVASCRIPT](https://github.com/bash0x42/icons/blob/main/script-java.png)
 ![PYTHON](https://github.com/bash0x42/icons/blob/main/python.png)
-
 ![GIT](https://github.com/bash0x42/icons/blob/main/git.png)
 ![GITHUB](https://github.com/bash0x42/icons/blob/main/github.png)
 ![VS Code](https://github.com/bash0x42/icons/blob/main/visual-studio.png)

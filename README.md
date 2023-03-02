@@ -19,6 +19,6 @@
 ![BASH](https://github.com/bash0x42/icons/blob/main/gnu-bash.png)
 
 
-## 𝗦𝘁𝗮𝘁𝘀 2023:
+## 𝗦𝘁𝗮𝘁𝘀:
 ![Bash github stats 2023](https://github-readme-stats.vercel.app/api?username=bash0x42&show_icons=true&theme=dracula)
 

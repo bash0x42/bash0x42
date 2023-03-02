@@ -14,10 +14,9 @@
 ![JAVASCRIPT](https://github.com/bash0x42/icons/blob/main/script-java.png)
 ![PYTHON](https://github.com/bash0x42/icons/blob/main/python.png)
 
-![VS Code](https://github.com/bash0x42/icons/blob/main/visual-studio.png)
 ![GIT](https://github.com/bash0x42/icons/blob/main/git.png)
 ![GITHUB](https://github.com/bash0x42/icons/blob/main/github.png)
-
+![VS Code](https://github.com/bash0x42/icons/blob/main/visual-studio.png)
 ![BASH](https://github.com/bash0x42/icons/blob/main/gnu-bash.png)
 
 
